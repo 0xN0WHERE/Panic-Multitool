@@ -102,15 +102,14 @@ Or launch it manually:
 ```bash
 python main.py
 ```
-
 ---
 
 ## ⚠️ Disclaimer
 
-This project is intended for educational and authorized security research purposes only. Use it only on systems, files, accounts, and services that you own or have explicit permission to test. The author assumes no responsibility for misuse.
+This tool is for educational purposes only.
 
 ---
 
 ## 👤 Author
 
-**0xN0WHERE**
+0xN0WHERE
