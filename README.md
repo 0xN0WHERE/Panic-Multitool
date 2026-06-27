@@ -7,8 +7,6 @@ A powerful all-in-one OSINT, file, password, and Discord utility toolkit.
 ## ⚡ Features
 
 ### 🌍 OSINT Tools
-
-
 - 01 IP Lookup
 - 02 Phone Lookup
 - 03 Metadata Extractor (EXIF)
@@ -16,8 +14,6 @@ A powerful all-in-one OSINT, file, password, and Discord utility toolkit.
 
 
 ### 📁 Files & Control
-
-
 - 05 File Corrupter
 - 06 Image Corrupter
 - 07 File Eraser
@@ -25,19 +21,15 @@ A powerful all-in-one OSINT, file, password, and Discord utility toolkit.
 
 
 ### 🔐 Password Tools
-
-
 - 09 Password Generator
 - 10 Password Checker
 
 
 ### 💬 Discord Tools
+- 11 Selfbot Menu
+- 12 Server Cloner
+- 13 Discord Stealer
 
-```
-11 Selfbot Menu
-12 Server Cloner
-13 Discord Stealer
-```
 
 ---
 
