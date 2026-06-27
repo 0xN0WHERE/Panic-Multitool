@@ -1,0 +1,7 @@
+colorama
+requests
+phonenumbers
+Pillow
+pywin32
+pycryptodome
+httpx
