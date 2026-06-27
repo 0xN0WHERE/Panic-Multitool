@@ -8,28 +8,28 @@ A powerful all-in-one OSINT, file, password, and Discord utility toolkit.
 
 ### 🌍 OSINT Tools
 
-```
-01 IP Lookup
-02 Phone Lookup
-03 Metadata Extractor (EXIF)
-04 OSINT Framework
-```
+
+- 01 IP Lookup
+- 02 Phone Lookup
+- 03 Metadata Extractor (EXIF)
+- 04 OSINT Framework
+
 
 ### 📁 Files & Control
 
-```
-05 File Corrupter
-06 Image Corrupter
-07 File Eraser
-08 Anti Screen Capture
-```
+
+- 05 File Corrupter
+- 06 Image Corrupter
+- 07 File Eraser
+- 08 Anti Screen Capture
+
 
 ### 🔐 Password Tools
 
-```
-09 Password Generator
-10 Password Checker
-```
+
+- 09 Password Generator
+- 10 Password Checker
+
 
 ### 💬 Discord Tools
 
