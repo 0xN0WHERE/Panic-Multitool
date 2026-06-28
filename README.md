@@ -52,7 +52,7 @@ https://www.python.org/downloads/
 ### Option 1
 
 1. Download the project.
-2. Extract the files.
+2. Extract the folder.
 3. Run:
 
 ```bat
