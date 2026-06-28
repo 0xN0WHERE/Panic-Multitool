@@ -64,7 +64,7 @@ This will:
 - Check your Python installation
 - Install all required dependencies
 - Launch the tool automatically
-- 
+
 ---
 
 ### Option 2 (Manual)
