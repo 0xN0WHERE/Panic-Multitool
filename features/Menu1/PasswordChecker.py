@@ -24,8 +24,8 @@ def CheckPassword():
                 print(f"{bracketopen}{Fore.WHITE}!{Style.RESET_ALL}{bracketclosed}{Fore.GREEN} Invalid password{Style.RESET_ALL}")
 
             combinations = int(CharSize ** len(Password))
-            guesses_per_second = int(10000)
-            seconds = combinations / guesses_per_second
+            GuessesPerSec = int(10000)
+            seconds = combinations / GuessesPerSec
             
             if seconds < 60:
                 TimeEstimate = f"{seconds:.2f} Seconds to bruteforce"
